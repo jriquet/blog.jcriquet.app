@@ -2,7 +2,7 @@
 <widget id="me.synology.JC-Box.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Tour du Monde</name>
-    <description>Les aventures de Sonia & JC</description>
+    <description>Les aventures de Sonia et JC</description>
     <author email="jriquet@gmail.com" href="http://jeancharles.riquet.free.fr">CV Online</author>
 
     <preference name="phonegap-version" value="3.3.0" />
